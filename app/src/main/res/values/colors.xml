@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3b4148</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorTitle">#0000FF</color>
+    <color name="category_sandwiches">@android:color/holo_orange_light</color>
+    <color name="category_burgers">@android:color/holo_red_light</color>
+    <color name="category_krushers">@android:color/holo_blue_light</color>
+    <color name="category_snacks">@android:color/holo_purple</color>
+    <color name="category_addon">@android:color/holo_green_light</color>
+</resources>

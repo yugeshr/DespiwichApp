@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_menucard"
+            android:icon="@drawable/ic_menu_menucard"
+            android:title="@string/menu" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/gallery" />
+
+        <item
+            android:id="@+id/nav_location"
+            android:icon="@drawable/ic_menu_location"
+            android:title="@string/location" />
+    </group>
+
+    <item android:title="@string/social_media">
+        <menu>
+            <item android:id="@+id/social_zomato"
+                android:icon="@drawable/social_zomato"
+                android:title="@string/zomato" />
+
+            <item android:id="@+id/social_ig"
+                android:icon="@drawable/social_ig"
+                android:title="@string/instagram"/>
+
+            <item android:id="@+id/social_fb"
+                android:icon="@drawable/social_fb"
+                android:title="@string/facebook"/>
+
+        </menu>
+    </item>
+
+    <item android:title="@string/contact_us">
+        <menu>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/feedbacks" />
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/share" />
+
+            <item
+                android:title="@string/logout"
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_logout"/>
+
+        </menu>
+    </item>
+
+</menu>

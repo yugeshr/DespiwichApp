@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Despiwich</string>
+    <string name="category_sandwiches">Sandwiches</string>
+    <string name="category_burgers">Burgers</string>
+    <string name="category_krushers">Krushers</string>
+    <string name="category_snacks">Snacks</string>
+    <string name="category_addon">Addons</string>
+
+    <string name="title_activity_nav">Despiwich</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Bello</string>
+
+    <string name="hint_email">Email</string>
+        <string name="hint_password">Password</string>
+    <string name="bello_hoomans">Wecome to Despiwich</string>
+    <string name="login">Login</string>
+    <string name="or_sign_in_using">Or Sign in using</string>
+    <string name="signup">Signup</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="gallery">Gallery</string>
+    <string name="location">Location</string>
+    <string name="menu">Menu</string>
+    <string name="zomato">Zomato</string>
+    <string name="facebook">Facebook</string>
+    <string name="feedbacks">Feedbacks</string>
+    <string name="instagram">Instagram</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="social_media">Social Media</string>
+    <string name="address">Address:</string>
+    <string name="address_full">Shop No.20, Ankur Plaza, GN Chetty Road, T Nagar, Chennai, Tamil Nadu - 600017</string>
+</resources>

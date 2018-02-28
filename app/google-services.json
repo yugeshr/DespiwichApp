@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "885982532625",
+    "firebase_url": "https://despiwich-1506100683120.firebaseio.com",
+    "project_id": "despiwich-1506100683120",
+    "storage_bucket": "despiwich-1506100683120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885982532625:android:ed07b672819d2b78",
+        "android_client_info": {
+          "package_name": "cafe.despiwich.com.despiwich"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885982532625-lim6o9afjdfrn5i0fq8cdge7g85k3r8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cafe.despiwich.com.despiwich",
+            "certificate_hash": "b404348b9e2dbc6deb28d2c26e0a557de59bb3c1"
+          }
+        },
+        {
+          "client_id": "885982532625-37gif4gk2ibg2vbsra827si4agigjev7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9WtLeM6jkLztAlCAScSglnJSwE03ebY8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885982532625-37gif4gk2ibg2vbsra827si4agigjev7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
